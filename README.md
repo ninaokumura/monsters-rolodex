@@ -4,7 +4,7 @@ This is a single page application built using React and it displays a list of di
 
 Monsters Rolodex was the first project in the "Complete React Developer" course by Andrei Neagoie.
 
-The main goal while building this simple single page application was to learn the main concepts of React:
+The main goal while building this single page application was to learn the main concepts of React:
 
 - NPM vs. NPX
 - Introduction to JSX
