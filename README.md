@@ -1,6 +1,6 @@
 # Monsters Rolodex
 
-This is a single page application built using React and it will display a list of different monsters and their info. You can also use the search bar to look for them.
+This is a single page application built using React and it displays a list of different monsters and their info. You can also use the search bar to look for them.
 
 Monsters Rolodex was the first project in the "Complete React Developer" course by Andrei Neagoie.
 
